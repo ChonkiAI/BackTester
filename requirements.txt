@@ -1,0 +1,20 @@
+# Core libraries for data handling and computation
+pandas
+numpy
+
+# Library for technical analysis indicators
+pandas-ta
+
+# Library for plotting and visualization
+matplotlib
+
+# Libraries for report generation
+fpdf2
+openpyxl
+
+# For running the main notebook/script environment
+jupyterlab
+
+# TA-Lib wrapper. Requires the TA-Lib C-library to be installed first.
+# See README.md for installation instructions.
+TA-Lib
